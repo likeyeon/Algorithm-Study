@@ -44,7 +44,7 @@ const result = quickSort(arr);
 console.log(result.join("\n")); 
 */
 
-/* 합병 정렬 
+/* 합병 정렬
 정렬 함수
 const merge = (left, right) => {
   const sortedArr = [];
