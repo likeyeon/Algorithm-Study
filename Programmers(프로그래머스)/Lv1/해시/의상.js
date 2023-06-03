@@ -1,3 +1,10 @@
+// 프로그래머스 LV2 - 의상
+// https://school.programmers.co.kr/learn/courses/30/lessons/42578
+
+// 정확성: 100.0
+// 효율성 테스트는 없었음
+// 총점 100.0
+
 function solution(clothes) {
   // Map 객체를 이용하여 각 종류별 옷 개수를 구함
   // key(옷 종류) = value(갯수)
