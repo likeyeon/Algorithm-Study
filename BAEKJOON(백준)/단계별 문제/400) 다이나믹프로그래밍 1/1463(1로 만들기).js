@@ -6,7 +6,7 @@ const fs = require("fs");
 // 백준
 // const readFileSyncAddress ="/dev/stdin";
 
-// 프로그래머스
+// VSC
 const readFileSyncAddress = __dirname + "/input.txt";
 
 let N = fs.readFileSync(readFileSyncAddress).toString().trim();
